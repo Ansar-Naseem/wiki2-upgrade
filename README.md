@@ -26,3 +26,23 @@
 ✔️ Matched 100% of Wikipedia's visual design  
 ✔️ Added 3+ meaningful enhancements  
 ✔️ Full functionality without backend  
+
+## 🚀 HOW TO RUN
+📁 Hackathon/
+│
+│
+📄 main.html                      #   MAIN ENTRY
+│   ├── 🎨 main.css             #   MAIN STYLES  
+│   └── 🛠️ main.js              # ⚙ MAIN SCRIPTS
+│
+├── 📄 index.html               # 🌐 INDEX PAGE
+│   ├── 📄 index(A).html        # 🔹 SUB-COMPONENT  
+│   ├── 🎨 style.css            # 🖌 PAGE STYLES
+│   ├── 🛠️ script.js           # 🧩 PAGE SCRIPTS
+│   └── 🖼️ image.png           # 📸 PAGE ASSET
+│
+└── 📄 index2.html              # 🔄 ALT PAGE  
+    ├── 📄 index2(A).html       # 🔸 ALT COMPONENT
+    ├── 🎨 style2.css           # ✨ ALT STYLES
+    ├── 🛠️ script2.js          # ⚙ ALT SCRIPTS
+    └── 🖼️ image2.png          # 📸 ALT ASSET
