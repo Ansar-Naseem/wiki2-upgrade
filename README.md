@@ -27,22 +27,20 @@
 ✔️ Added 3+ meaningful enhancements  
 ✔️ Full functionality without backend  
 
-## 🚀 HOW TO RUN
-📁 Hackathon/
+## 🚀 HOW TO RUN(structured)
 │
+📄 index.html                      #   MAIN ENTRY
+│   ├── 🎨 index.css             #   MAIN STYLES  
+│   └── 🛠️ index.js              # ⚙ MAIN SCRIPTS
 │
-📄 main.html                      #   MAIN ENTRY
-│   ├── 🎨 main.css             #   MAIN STYLES  
-│   └── 🛠️ main.js              # ⚙ MAIN SCRIPTS
-│
-├── 📄 index.html               # 🌐 INDEX PAGE
-│   ├── 📄 index(A).html        # 🔹 SUB-COMPONENT  
-│   ├── 🎨 style.css            # 🖌 PAGE STYLES
-│   ├── 🛠️ script.js           # 🧩 PAGE SCRIPTS
+├── 📄 main1.html               # 🌐 INDEX PAGE
+│   ├── 📄 main1(A).html        # 🔹 SUB-COMPONENT  
+│   ├── 🎨 main1.css            # 🖌 PAGE STYLES
+│   ├── 🛠️ main1.js           # 🧩 PAGE SCRIPTS
 │   └── 🖼️ image.png           # 📸 PAGE ASSET
 │
-└── 📄 index2.html              # 🔄 ALT PAGE  
-    ├── 📄 index2(A).html       # 🔸 ALT COMPONENT
-    ├── 🎨 style2.css           # ✨ ALT STYLES
-    ├── 🛠️ script2.js          # ⚙ ALT SCRIPTS
+└── 📄 main2.html              # 🔄 ALT PAGE  
+    ├── 📄 main2(A).html       # 🔸 ALT COMPONENT
+    ├── 🎨 main2.css           # ✨ ALT STYLES
+    ├── 🛠️ main2.js          # ⚙ ALT SCRIPTS
     └── 🖼️ image2.png          # 📸 ALT ASSET
